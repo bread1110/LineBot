@@ -1,0 +1,23 @@
+用戶B
+{
+  "destination": "Ud6dd642b26d502d97f22dcb067e1b6ad",
+  "events": [
+    {
+      "type": "message",
+      "message": {
+        "type": "text",
+        "id": "18107462345973",
+        "text": "你好"
+      },
+      "webhookEventId": "01GZV4EHF1EMZ2KCQBFJH55NKR",
+      "deliveryContext": { "isRedelivery": false },
+      "timestamp": 1683464078298,
+      "source": {
+        "type": "user",
+        "userId": "Ub044aa619e2bfa6a906f6f461e7f39e3"
+      },
+      "replyToken": "9b1a179eb11b4e16a3aa8445bbae50f1",
+      "mode": "active"
+    }
+  ]
+}

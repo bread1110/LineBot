@@ -1,0 +1,24 @@
+群組B
+{
+  "destination": "Ud6dd642b26d502d97f22dcb067e1b6ad",
+  "events": [
+    {
+      "type": "message",
+      "message": {
+        "type": "text",
+        "id": "18107431488141",
+        "text": "幹嘛啦"
+      },
+      "webhookEventId": "01GZV42XH4ZMCJG80HCASP4ASB",
+      "deliveryContext": { "isRedelivery": false },
+      "timestamp": 1683463697585,
+      "source": {
+        "type": "group",
+        "groupId": "C71afa5112afa74cfa1c6e54d7496edc2",
+        "userId": "Ubb3181da7c563f0b76e8d31465efe8ec"
+      },
+      "replyToken": "b1f3e947428c43a1a40b685aaeb7be06",
+      "mode": "active"
+    }
+  ]
+}

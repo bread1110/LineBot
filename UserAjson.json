@@ -1,0 +1,24 @@
+用戶A
+{
+  "destination": "Ud6dd642b26d502d97f22dcb067e1b6ad",
+  "events": [
+    {
+      "type": "message",
+      "message": {
+        "type": "text",
+        "id": "18107454027714",
+        "text": "你喜歡哪個類型的女生"
+      },
+      "webhookEventId": "01GZV4BE6074F1664JJ18F51X8",
+      "deliveryContext": { "isRedelivery": false },
+      "timestamp": 1683463976875,
+      "source": {
+        "type": "user",
+        "userId": "Ubb3181da7c563f0b76e8d31465efe8ec"
+      },
+      "replyToken": "1a5b12340c6c4218a6c8731daafe39c8",
+      "mode": "active"
+    }
+  ]
+}
+
